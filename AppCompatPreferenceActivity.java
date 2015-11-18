@@ -109,5 +109,6 @@ public abstract class AppCompatPreferenceActivity extends PreferenceActivity {
 
     public void ding(){
         int a=1;
+        int b=2;
     }
 }
